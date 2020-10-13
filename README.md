@@ -7,13 +7,13 @@ Adding a new line
 ## Semester Timetable
 
 **Monday**
-+Genomics
-+Proteomics
+>+Genomics
+>+Proteomics
 
 **Tuesday**
-+Chemistry
-+phytochemistry
+>+Chemistry
+>+Phytochemistry
 
 **Friday**
-+Plant Biology
-+Pharmacognosy
+>+Plant Biology
+>+Pharmacognosy
