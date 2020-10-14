@@ -29,3 +29,5 @@ All lectures have been mandatory
 ![Brad](https://avatars0.githubusercontent.com/u/72727098?s=460&v=4)
 
 [Brad]:https://avatars0.githubusercontent.com/u/72727098?s=460&v=4 "New Student"
+
+this was added from the local.
