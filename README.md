@@ -24,5 +24,5 @@ Timetable was added find it [here](https://github.com/Programming-SBCG853-Cohort
 All lectures have been mandatory
 
 **check out the new student below**
-
+thank you
 
