@@ -24,6 +24,8 @@ Timetable was added find it [here](https://github.com/Programming-SBCG853-Cohort
 All lectures have been mandatory
 
 **check out the new student below**
+thank you
+
 
 
 ![Brad](https://avatars0.githubusercontent.com/u/72727098?s=460&v=4)
@@ -31,3 +33,5 @@ All lectures have been mandatory
 [Brad]:https://avatars0.githubusercontent.com/u/72727098?s=460&v=4 "New Student"
 
 this was added from the local, please consider.
+
+>>>>>>> efb70213cefa9815fa78c5ffed3bc94f06b3845d
